@@ -1,0 +1,8 @@
+.app__wrapper-content .p__opensans {
+    margin: 0;
+}
+
+.app__wrapper-content .p__opensans:hover {
+    cursor: unset;
+    color: var(--color-white);
+}
